@@ -17,11 +17,11 @@ paginate: 2
 paginate_path: /page/:num
 comments: false
 
-source: source
-destination: _site
+source: ./source
+destination: ./_site
 
 sass:
-  sass_dir: source/_scss
+  sass_dir: ./source/_sass
   style: compressed
 
 # defaults
