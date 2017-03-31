@@ -19,8 +19,9 @@ comments: false
 
 source: source
 destination: _site
+
 sass:
-  sass_dir: _scss
+  sass_dir: source/_scss
   style: compressed
 
 # defaults
