@@ -7,7 +7,7 @@ TARGET_BRANCH="gh-pages"
 GITHUB_REF="github.com/matthewparizot/matthewparizot.github.io.git"
 NAME="Matthew Parizot"
 EMAIL="matthewparizot@gmail.com"
-BUILD_DIR="_site/blog"
+BUILD_DIR="_site"
 
 # Pull requests and commits to other branches shouldn't try to deploy, just build to verify
 if [ "$TRAVIS_PULL_REQUEST" != "false" -o "$TRAVIS_BRANCH" != "$SOURCE_BRANCH" ]; then
