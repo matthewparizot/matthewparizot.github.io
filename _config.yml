@@ -2,9 +2,9 @@
 gems: [jekyll-paginate]
 
 # site settings
-title: Phoebe
-description: A free Jekyll theme
-email: your-email@domain.com
+title: Matthew Parizot
+description:
+email: matthewparizot@gmail.com
 
 baseurl: /blog
 url: https://matthewparizot.com
