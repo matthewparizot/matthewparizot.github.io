@@ -1,35 +1,27 @@
-# gems
-gems: [jekyll-paginate]
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# site settings
-title: Matthew Parizot
-description:
-email: matthewparizot@gmail.com
+# Permalinks
+permalink:        pretty
 
-baseurl: ""
-url: https://matthewparizot.com
+# Setup
+title:            Parizot
+description:      'Add a description here'
+baseurl:          /
 
-permalink: pretty
+# pagination
+paginate:         5
 
-paginate: 2
-paginate_path: /page/:num
-comments: false
+# Hyde theme
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-sass:
-  sass_dir: _sass
-
-# defaults
-defaults:
-  -
-    scope:
-      path: ""      # empty string for all files
-      type: posts   # limit to posts
-    values:
-      is_post: true # automatically set is_post=true for all posts
-
-# exclude list
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-  - .travis.yml
+gems:
+  - jekyll-paginate
+  - redcarpet
+  - jekyll-gist
+  - pygments.rb
+  
+exclude: ["node_modules", "gulpfile.js", "package.json"]
