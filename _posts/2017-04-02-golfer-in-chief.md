@@ -1,16 +1,15 @@
 ---
 layout: post
 title: Golfer in Chief
-date: %c
 ---
-# Golfer in Chief
+
 #### Is the new president's golfing habit any worse than his peers?
 
 As Donald Trump exits his 9th week as the 45th President of the United States, it’s clear that the Trump administration has proven itself to be every bit as controversial as it was expected to be. We haven’t even finished our third month, and President Trump has already managed to nominate a Russian collaborator as a national security advisor, botch a raid in Yemen, and invent a wiretapping scandal. This isn’t even mentioning the failures that were both of Trump’s Muslim bans and his repeal of Obamacare.
 
 However, there’s one controversy that, despite seeming benign, has just the right combination of irony and hypocrisy to catch any Trump-hater’s attention: Donald Trump, Real Estate Tycoon, Former Game Show Host, and President of the United States, plays a lot of golf.
 
-Now for anyone who perhaps followed Trump’s career before his ascent to the highest office in elected government may have already known that Trump was an avid golfer. The website for one of this companies, Trump Golf, boasts 18 “world-class golf destinations across the globe”. Golf Digest released a special edition issue with an illustration of Trump and the words “Golfer in Chief” placed on the cover. It’s no secret that this man loves to golf.
+Now for anyone who perhaps followed Trump’s career before his ascent to the highest office in elected government may have already known that Trump was an avid golfer. The website for one of his companies, Trump Golf, boasts 18 “world-class golf destinations across the globe”. Golf Digest released a special edition issue with an illustration of Trump and the words “Golfer in Chief” placed on the cover. It’s no secret that this man loves to golf.
 
 So is it really an issue if Trump likes to take a trip to his golf resort in Florida to hit a few holes? By all intents and purposes, you might think the Democrats would appreciate any time Trump takes away from trying to pass other morally evil executive order. This could have possibly been the case, if it weren’t for Trump’s Twitter account.
 
