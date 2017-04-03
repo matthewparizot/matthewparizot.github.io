@@ -6,8 +6,8 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Parizot
-description:      'Add a description here'
+title:            Matthew Parizot
+description:      'Multimedia journalist for any occaision '
 baseurl:          /
 
 # pagination
@@ -23,5 +23,5 @@ gems:
   - redcarpet
   - jekyll-gist
   - pygments.rb
-  
+
 exclude: ["node_modules", "gulpfile.js", "package.json"]
