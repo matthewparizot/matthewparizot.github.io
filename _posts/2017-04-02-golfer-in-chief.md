@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Golfer in Chief
+date: %c
 ---
 
 As Donald Trump exits his 9th week as the 45th President of the United States, it’s clear that the Trump administration has proven itself to be every bit as controversial as it was expected to be. We haven’t even finished our third month, and President Trump has already managed to nominate a Russian collaborator as a national security advisor, botch a raid in Yemen, and invent a wiretapping scandal. This isn’t even mentioning the failures that were both of Trump’s Muslim bans and his repeal of Obamacare.
